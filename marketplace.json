@@ -1,5 +1,0 @@
-{
-  "name": "yadhu-voice-check",
-  "owner": { "name": "sarczar" },
-  "plugins": [{ "name": "voice-check", "source": "./" }]
-}
