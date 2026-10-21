@@ -1,1 +1,0 @@
-{ "name": "voice-check", "version": "0.1.0", "description": "/voice-check: confirm ~/.claude/youtube/voice.md exists and matches the fingerprint your setup script restores" }
